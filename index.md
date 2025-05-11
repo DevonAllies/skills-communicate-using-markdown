@@ -12,3 +12,7 @@ Headers added
 ``` python
 pythonWord = 'Hello world'
 ``` 
+- [ ] git init
+- [ ] git add
+- [ ] git commit -a -m 'Add a message'
+- [ ] git push
