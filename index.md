@@ -8,3 +8,6 @@
 Headers added
 
 ![Ferrari Hypercar](https://cdn-5.motorsport.com/images/amp/2QzKqMAY/s1000/50-ferrari-af-corse-ferrari-49.jpg)
+
+``` python
+pythonWord = 'Hello world'
